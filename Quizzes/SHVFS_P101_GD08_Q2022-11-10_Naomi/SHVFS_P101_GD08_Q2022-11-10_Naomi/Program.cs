@@ -5,28 +5,35 @@ namespace SHVFS_P101_GD08_Naomi
     {
         public static void Main()
         {
-            int a = 1, word,name,b;
-            Console.WriteLine("HEllo,please enter your name.");
-            name = Convert.ToInt32(Console.ReadLine());
-
-
-             word= 1002;
-             = 1;
-            Console.WriteLine("please enter your guess");
-            while 
+            string name;
+            string Guessname;
+            int jishuqi = 1;
+            string[]Fivehub = { "Naomi", "Cloud", "Bandy", "Oprah", "Johnny" };
+            Random random = new Random();
+            int suijishu = random.Next(Fivehub.Length);
+            Console.WriteLine($"Welcome,please enter your name.");
+            name = Console.ReadLine();
+            Console.Clear();
+            Console.WriteLine($"Nice to meet you,{name},let's guess a name of Naomi,Cloud,Bandy,Oprah,Johnny,please enter a name");
+            Guessname = Console.ReadLine();
+            Console.Clear();
+            while(Guessname!= Fivehub[suijishu])
             {
-                = Convert.ToInt32(Console.ReadLine());
-                if 
-                {
-                    Console.WriteLine("");
-                }
-                else if 
-                {
-                    Console.WriteLine("");
-                }
-
-
-
+                Console.WriteLine("You are wrong,try again.");
+                jishuqi++;
+                Console.WriteLine($"Let's guess a name of Naomi,Cloud,Bandy,Oprah,Johnny,please enter a name");
+                Guessname = Console.ReadLine();
+                Console.Clear();
             }
+            Console.WriteLine($"Good!You are right.YOU have tried {jishuqi} times");
+
+
+
+        }
+        
+            
+
+
+            
     }
 }
