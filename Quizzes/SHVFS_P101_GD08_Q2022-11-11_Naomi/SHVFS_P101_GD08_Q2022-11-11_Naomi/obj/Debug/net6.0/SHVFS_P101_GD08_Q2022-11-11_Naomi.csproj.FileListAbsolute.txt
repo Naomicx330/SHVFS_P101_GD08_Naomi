@@ -1,0 +1,15 @@
+C:\Users\GD Student\Desktop\HW\SHVFS_P101_GD08_Naomi\Quizzes\SHVFS_P101_GD08_Q2022-11-11_Naomi\SHVFS_P101_GD08_Q2022-11-11_Naomi\bin\Debug\net6.0\SHVFS_P101_GD08_Q2022-11-11_Naomi.exe
+C:\Users\GD Student\Desktop\HW\SHVFS_P101_GD08_Naomi\Quizzes\SHVFS_P101_GD08_Q2022-11-11_Naomi\SHVFS_P101_GD08_Q2022-11-11_Naomi\bin\Debug\net6.0\SHVFS_P101_GD08_Q2022-11-11_Naomi.deps.json
+C:\Users\GD Student\Desktop\HW\SHVFS_P101_GD08_Naomi\Quizzes\SHVFS_P101_GD08_Q2022-11-11_Naomi\SHVFS_P101_GD08_Q2022-11-11_Naomi\bin\Debug\net6.0\SHVFS_P101_GD08_Q2022-11-11_Naomi.runtimeconfig.json
+C:\Users\GD Student\Desktop\HW\SHVFS_P101_GD08_Naomi\Quizzes\SHVFS_P101_GD08_Q2022-11-11_Naomi\SHVFS_P101_GD08_Q2022-11-11_Naomi\bin\Debug\net6.0\SHVFS_P101_GD08_Q2022-11-11_Naomi.dll
+C:\Users\GD Student\Desktop\HW\SHVFS_P101_GD08_Naomi\Quizzes\SHVFS_P101_GD08_Q2022-11-11_Naomi\SHVFS_P101_GD08_Q2022-11-11_Naomi\bin\Debug\net6.0\SHVFS_P101_GD08_Q2022-11-11_Naomi.pdb
+C:\Users\GD Student\Desktop\HW\SHVFS_P101_GD08_Naomi\Quizzes\SHVFS_P101_GD08_Q2022-11-11_Naomi\SHVFS_P101_GD08_Q2022-11-11_Naomi\obj\Debug\net6.0\SHVFS_P101_GD08_Q2022-11-11_Naomi.csproj.AssemblyReference.cache
+C:\Users\GD Student\Desktop\HW\SHVFS_P101_GD08_Naomi\Quizzes\SHVFS_P101_GD08_Q2022-11-11_Naomi\SHVFS_P101_GD08_Q2022-11-11_Naomi\obj\Debug\net6.0\SHVFS_P101_GD08_Q2022-11-11_Naomi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GD Student\Desktop\HW\SHVFS_P101_GD08_Naomi\Quizzes\SHVFS_P101_GD08_Q2022-11-11_Naomi\SHVFS_P101_GD08_Q2022-11-11_Naomi\obj\Debug\net6.0\SHVFS_P101_GD08_Q2022-11-11_Naomi.AssemblyInfoInputs.cache
+C:\Users\GD Student\Desktop\HW\SHVFS_P101_GD08_Naomi\Quizzes\SHVFS_P101_GD08_Q2022-11-11_Naomi\SHVFS_P101_GD08_Q2022-11-11_Naomi\obj\Debug\net6.0\SHVFS_P101_GD08_Q2022-11-11_Naomi.AssemblyInfo.cs
+C:\Users\GD Student\Desktop\HW\SHVFS_P101_GD08_Naomi\Quizzes\SHVFS_P101_GD08_Q2022-11-11_Naomi\SHVFS_P101_GD08_Q2022-11-11_Naomi\obj\Debug\net6.0\SHVFS_P101_GD08_Q2022-11-11_Naomi.csproj.CoreCompileInputs.cache
+C:\Users\GD Student\Desktop\HW\SHVFS_P101_GD08_Naomi\Quizzes\SHVFS_P101_GD08_Q2022-11-11_Naomi\SHVFS_P101_GD08_Q2022-11-11_Naomi\obj\Debug\net6.0\SHVFS_P101_GD08_Q2022-11-11_Naomi.dll
+C:\Users\GD Student\Desktop\HW\SHVFS_P101_GD08_Naomi\Quizzes\SHVFS_P101_GD08_Q2022-11-11_Naomi\SHVFS_P101_GD08_Q2022-11-11_Naomi\obj\Debug\net6.0\refint\SHVFS_P101_GD08_Q2022-11-11_Naomi.dll
+C:\Users\GD Student\Desktop\HW\SHVFS_P101_GD08_Naomi\Quizzes\SHVFS_P101_GD08_Q2022-11-11_Naomi\SHVFS_P101_GD08_Q2022-11-11_Naomi\obj\Debug\net6.0\SHVFS_P101_GD08_Q2022-11-11_Naomi.pdb
+C:\Users\GD Student\Desktop\HW\SHVFS_P101_GD08_Naomi\Quizzes\SHVFS_P101_GD08_Q2022-11-11_Naomi\SHVFS_P101_GD08_Q2022-11-11_Naomi\obj\Debug\net6.0\SHVFS_P101_GD08_Q2022-11-11_Naomi.genruntimeconfig.cache
+C:\Users\GD Student\Desktop\HW\SHVFS_P101_GD08_Naomi\Quizzes\SHVFS_P101_GD08_Q2022-11-11_Naomi\SHVFS_P101_GD08_Q2022-11-11_Naomi\obj\Debug\net6.0\ref\SHVFS_P101_GD08_Q2022-11-11_Naomi.dll
